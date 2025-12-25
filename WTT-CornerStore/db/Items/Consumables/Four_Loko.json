@@ -560,7 +560,7 @@
 			},
 			"effects_health": {
 				"Hydration": {
-					"value": -35
+					"value": 35
 				},
 				"Energy": {
 					"value": 40
@@ -1173,4 +1173,5 @@
 		"StaticLootContainer": ["LOOTCONTAINER_JACKET", "LOOTCONTAINER_DUFFLE_BAG_ADV", "LOOTCONTAINER_RATION_SUPPLY_CRATE"], 
 		"Probability":  10
 	}
+
 }
